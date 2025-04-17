@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-**/sky-take-out/
-=======
 **/target/
->>>>>>> bf58a56f7b5291ecc2f161cba3854f17cd8b6bef
 .idea
 *.iml
 *.class
 *Test.java
-<<<<<<< HEAD
 **/test/
-=======
-**/test/
->>>>>>> bf58a56f7b5291ecc2f161cba3854f17cd8b6bef
